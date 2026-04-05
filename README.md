@@ -10,11 +10,23 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 **B.Tech CSE** at Bennett University (CGPA: 9.28) | Dean's List (Top 5%)
+```python
+class SaranshSethi:
+    def __init__(self):
+        self.role = "SDE Intern & Freelance Developer"
+        self.education = "B.Tech CSE @ Bennett University (CGPA: 9.28)"
+        self.interests = ["AI/ML", "Agentic Workflows", "Real-Time Systems"]
+        
+    def get_current_focus(self):
+        return "Self-hosting n8n automations & building AI pipelines"
+```
+
+- 🎓 **B.Tech CSE** at Bennett University | Dean's List (Top 5%)
 - 💻 **SDE Intern & Freelance Developer** building scalable full-stack web apps and AI-powered solutions.
 - 🤖 Specialized in **AI, Machine Learning, and Real-Time Systems**.
 - 🛠️ Automation geek—actively hosting my own **n8n instances** on my custom domain to automate daily workflows.
-- ⚡ Fun fact: My RL agent scored a perfect **1.0** on all 3 incident response tasks during a hackathon! 🎯
+- 🌱 **Currently Learning:** Advanced LangGraph Agent architectures and Generative AI integrations.
+- ⚡ **Fun fact:** My RL agent scored a perfect **1.0** on all 3 incident response tasks during a hackathon! 🎯
 
 ---
 
@@ -116,23 +128,8 @@ AI-powered system to detect deepfake images and videos using deep learning.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Saransh2412&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saransh2412&layout=compact&theme=radical&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
-
-<br/>
-
 <a href="https://leetcode.com/u/Saranshsethi/"><img src="https://leetcard.jacoblin.cool/Saranshsethi?theme=radical&font=Fira%20Code&ext=activity" height="170" alt="LeetCode Stats" /></a>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saransh2412&theme=radical&hide_border=true" height="170" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Saransh2412&theme=radical&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -154,14 +151,10 @@ AI-powered system to detect deepfake images and videos using deep learning.
 
 ## 🌐 Connect With Me
 
-<div align="center">
-
-<a href="https://github.com/Saransh2412"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/saransh-sethi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:sethisaransh3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://saransh2412.github.io"><img src="https://img.shields.io/badge/Portfolio-FF2A2A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-
-</div>
+*   📧 **Email:** [sethisaransh3@gmail.com](mailto:sethisaransh3@gmail.com)
+*   💼 **LinkedIn:** [linkedin.com/in/saransh-sethi](https://www.linkedin.com/in/saransh-sethi/)
+*   🐙 **GitHub:** [github.com/Saransh2412](https://github.com/Saransh2412)
+*   🌐 **Portfolio:** [saransh2412.github.io](https://saransh2412.github.io)
 
 ---
 

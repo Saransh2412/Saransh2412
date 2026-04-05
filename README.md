@@ -10,11 +10,25 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Passionate developer building at the intersection of **AI, ML & Full-Stack Web**
-- 🤖 Love experimenting with **Reinforcement Learning**, **Deep Learning** & **LLM-powered apps**
-- 🧩 Built projects ranging from **Chrome Extensions** to **AI Chatbots** to **RL Environments**
-- 🌱 Currently exploring **Agentic AI** and **Generative AI** integrations
-- ⚡ Fun fact: My RL agent scored a perfect **1.0** on all 3 incident response tasks! 🎯
+- 🎓 **B.Tech CSE** at Bennett University (CGPA: 9.28) | Dean's List (Top 5%)
+- 💻 **SDE Intern & Freelance Developer** building scalable full-stack web apps and AI-powered solutions.
+- 🤖 Specialized in **AI, Machine Learning, and Real-Time Systems** (recently built a 100ms latency voice AI pipeline!).
+- 🛠️ Automation geek—actively hosting my own **n8n instances** on my custom domain to automate daily workflows.
+- ⚡ Fun fact: My RL agent scored a perfect **1.0** on all 3 incident response tasks during a hackathon! 🎯
+
+---
+
+## 💼 Experience
+
+### 🏢 SDE Intern | Solutioneers Infotech *(Remote)*
+- Built a real-time voice pipeline with around **100ms streaming latency**.
+- Developed a backend voice agent for real-time voice interactions using STT/TTS APIs.
+- Implemented intent detection with fallback handling, achieving **87% accuracy**.
+
+### 💻 Freelance Developer | X Transport *(Canada)*
+- Delivered a working MVP in 14 days with full ownership of both frontend and backend.
+- Built a responsive React.js frontend for freight quotes, reducing bounce rate by **25%**.
+- Developed backend APIs in Node.js and added automated email notifications using Nodemailer.
 
 ---
 
@@ -22,7 +36,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,html,css,react,vite,nodejs,tensorflow,git,github,docker,vercel,mongodb,mysql,postman,linux&perline=8" alt="Tech Stack Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,js,html,css,react,tailwind,nodejs,express,tensorflow,mysql,docker,git,github,vercel,linux,postman,idea,vscode&perline=10" alt="Tech Stack Skill Icons" />
   </a>
 </div>
 
@@ -34,10 +48,10 @@
 <tr>
 <td width="50%">
 
-### 🕵️ [Deepfake Detection](https://github.com/Saransh2412/Deepfake_detection)
-AI-powered system to detect deepfake images and videos using deep learning.
+### ⚙️ Placement Notification Automation
+Self-hosted **n8n** automation platform that triggers on placement emails, uses an **LLM** to extract key details, validates via schema, and sends real-time alerts to Telegram while logging to Google Sheets.
 
-**Tech:** Python · Deep Learning · Computer Vision
+**Tech:** n8n · Docker · LLM APIs · JavaScript · Telegram API
 
 </td>
 <td width="50%">
@@ -52,40 +66,12 @@ Reinforcement learning environment simulating real production incident response,
 <tr>
 <td width="50%">
 
-### ⚖️ [LegalBot](https://github.com/Saransh2412/Legalbot)
-AI-powered chatbot that answers basic legal questions using the **Google Gemini API**. Clean ChatGPT-style UI.
+### 🏗️ Kickstart Scaffolding Tool
+An AI tool that takes a high-level prompt, breaks it into ordered engineering tasks, and generates structured project templates. Uses **Pydantic** to enforce consistent outputs.
 
-**Tech:** React · Vite · Gemini API
-
-</td>
-<td width="50%">
-
-### 🎧 [Smart Audio Pause](https://github.com/Saransh2412/Smart-Audio-Pause)
-Chrome extension that **auto-pauses** audio/video when you switch tabs and resumes when you return.
-
-**Tech:** JavaScript · Chrome Extension API
+**Tech:** Python · LangChain · LangGraph · Pydantic · OpenAI/Groq
 
 </td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🍔 [Food Delivery App](https://github.com/Saransh2412/Food-Delivery)
-Full-featured food delivery web application with a modern UI.
-
-**Tech:** JavaScript · React
-
-</td>
-<td width="50%">
-
-### 🩺 [Diabetes Prediction ML](https://github.com/Saransh2412/-item-textbf-Diabetes-Prediction-using-ML-)
-Machine learning model to predict diabetes using clinical datasets.
-
-**Tech:** Python · scikit-learn · Jupyter Notebook
-
-</td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 📦 [Flipkart Clone](https://github.com/Saransh2412/flipkart_clone)
@@ -94,12 +80,22 @@ Full UI clone of the Flipkart e-commerce platform built rapidly in **just 2 days
 **Tech:** JavaScript · React · CSS
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
-### 📞 [CallBot](https://github.com/Saransh2412/CallBot)
-Automated call-handling bot for smart interactions.
+### ⚖️ [LegalBot](https://github.com/Saransh2412/Legalbot)
+AI-powered chatbot that answers basic legal questions using the **Google Gemini API**. Clean ChatGPT-style UI.
 
-**Tech:** JavaScript · Node.js
+**Tech:** React · Vite · Gemini API
+
+</td>
+<td width="50%">
+
+### 🕵️ [Deepfake Detection](https://github.com/Saransh2412/Deepfake_detection)
+AI-powered system to detect deepfake images and videos using deep learning.
+
+**Tech:** Python · Deep Learning · Computer Vision
 
 </td>
 </tr>
@@ -107,12 +103,21 @@ Automated call-handling bot for smart interactions.
 
 ---
 
+## 🏆 Achievements & Positions
+
+- 🌟 Solved **500+ DSA problems** across multiple coding platforms.
+- 🥇 **1st Prize** – IEEE AI Image Generation Challenge, Zenevia Fest (2025).
+- 📜 **Certifications:** NVIDIA Modern CUDA C++, Google Operating Systems, BCG SWE Virtual Experience.
+- 🤝 **Deputy Minister (Alumni Relations) & PR Lead (Rescon 2.0)** – Organized engagement events and coordinated logistics for 200+ participants.
+
+---
+
 ## 📊 Stats & Profiles
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Saransh2412/Saransh2412/output/github-stats.svg" height="170" alt="GitHub Stats" />
-<img src="https://raw.githubusercontent.com/Saransh2412/Saransh2412/output/github-top-langs.svg" height="170" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Saransh2412&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saransh2412&layout=compact&theme=radical&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
 
 <br/>
 
@@ -127,7 +132,7 @@ Automated call-handling bot for smart interactions.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Saransh2412/Saransh2412/output/github-trophies.svg" alt="GitHub Trophies" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=Saransh2412&theme=radical&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 

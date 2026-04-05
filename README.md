@@ -16,11 +16,6 @@
 - 🌱 Currently exploring **Agentic AI** and **Generative AI** integrations
 - ⚡ Fun fact: My RL agent scored a perfect **1.0** on all 3 incident response tasks! 🎯
 
-> **👋 Want to see my CLI business card?** Open your terminal and run:
-> ```bash
-> npx saransh2412
-> ```
-
 ---
 
 ## 🛠️ Tech Stack
@@ -48,7 +43,7 @@ AI-powered system to detect deepfake images and videos using deep learning.
 <td width="50%">
 
 ### 🚨 [Incident Response RL](https://github.com/Saransh2412/incident-response-rl)
-Reinforcement learning environment simulating real production incident response. Agent scored **perfect 1.0** across all tasks!
+Reinforcement learning environment simulating real production incident response, built during a **hackathon**. Agent scored **perfect 1.0** across all tasks!
 
 **Tech:** Python · Reinforcement Learning · Docker · FastAPI
 
@@ -58,7 +53,7 @@ Reinforcement learning environment simulating real production incident response.
 <td width="50%">
 
 ### ⚖️ [LegalBot](https://github.com/Saransh2412/Legalbot)
-AI-powered chatbot that answers basic legal questions using **Google Gemini API**. Clean ChatGPT-style UI.
+AI-powered chatbot that answers basic legal questions using the **Google Gemini API**. Clean ChatGPT-style UI.
 
 **Tech:** React · Vite · Gemini API
 
@@ -94,7 +89,7 @@ Machine learning model to predict diabetes using clinical datasets.
 <td width="50%">
 
 ### 📦 [Flipkart Clone](https://github.com/Saransh2412/flipkart_clone)
-Full UI clone of the Flipkart e-commerce platform.
+Full UI clone of the Flipkart e-commerce platform built rapidly in **just 2 days as an assignment**.
 
 **Tech:** JavaScript · React · CSS
 
@@ -116,8 +111,8 @@ Automated call-handling bot for smart interactions.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Saransh2412&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saransh2412&layout=compact&theme=radical&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
+<img src="https://raw.githubusercontent.com/Saransh2412/Saransh2412/output/github-stats.svg" height="170" alt="GitHub Stats" />
+<img src="https://raw.githubusercontent.com/Saransh2412/Saransh2412/output/github-top-langs.svg" height="170" alt="Top Languages" />
 
 <br/>
 
@@ -132,7 +127,7 @@ Automated call-handling bot for smart interactions.
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Saransh2412&theme=radical&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://raw.githubusercontent.com/Saransh2412/Saransh2412/output/github-trophies.svg" alt="GitHub Trophies" />
 
 </div>
 

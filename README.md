@@ -16,6 +16,11 @@
 - 🌱 Currently exploring **Agentic AI** and **Generative AI** integrations
 - ⚡ Fun fact: My RL agent scored a perfect **1.0** on all 3 incident response tasks! 🎯
 
+> **👋 Want to see my CLI business card?** Open your terminal and run:
+> ```bash
+> npx saransh2412
+> ```
+
 ---
 
 ## 🛠️ Tech Stack

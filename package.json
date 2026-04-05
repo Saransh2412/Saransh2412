@@ -1,0 +1,19 @@
+{
+  "name": "saransh2412",
+  "version": "1.0.0",
+  "description": "CLI Business Card for Saransh Sethi",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "saransh2412": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "boxen": "^7.1.1",
+    "chalk": "^5.3.0"
+  },
+  "author": "Saransh Sethi",
+  "license": "ISC"
+}

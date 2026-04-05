@@ -12,7 +12,7 @@
 
 - 🎓 **B.Tech CSE** at Bennett University (CGPA: 9.28) | Dean's List (Top 5%)
 - 💻 **SDE Intern & Freelance Developer** building scalable full-stack web apps and AI-powered solutions.
-- 🤖 Specialized in **AI, Machine Learning, and Real-Time Systems** (recently built a 100ms latency voice AI pipeline!).
+- 🤖 Specialized in **AI, Machine Learning, and Real-Time Systems**.
 - 🛠️ Automation geek—actively hosting my own **n8n instances** on my custom domain to automate daily workflows.
 - ⚡ Fun fact: My RL agent scored a perfect **1.0** on all 3 incident response tasks during a hackathon! 🎯
 

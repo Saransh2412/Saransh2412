@@ -154,7 +154,7 @@ AI-powered system to detect deepfake images and videos using deep learning.
 *   📧 **Email:** [sethisaransh3@gmail.com](mailto:sethisaransh3@gmail.com)
 *   💼 **LinkedIn:** [linkedin.com/in/saransh-sethi](https://www.linkedin.com/in/saransh-sethi/)
 *   🐙 **GitHub:** [github.com/Saransh2412](https://github.com/Saransh2412)
-*   🌐 **Portfolio:** [saranshh.me](www.saranshh.me)
+*   🌐 **Portfolio:** [saranshh.me](https://www.saranshh.me/)
 
 ---
 

@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Saransh%20Sethi&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Developer%20%7C%20AI%20%2F%20ML%20Enthusiast%20%7C%20Builder&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Saransh%20Sethi&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F92672&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Saransh+%F0%9F%91%8B;Full-Stack+Developer;AI+%2F+ML+Engineer;Chrome+Extension+Builder;Open+to+Collaborations!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F92672&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Saransh+%F0%9F%91%8B;Full-Stack+Developer;AI+%26+Automation+Enthusiast;Building+Cool+Stuff+Everyday!)](https://git.io/typing-svg)
 
 </div>
 
@@ -60,30 +60,22 @@ class SaranshSethi:
 <tr>
 <td width="50%">
 
+### 🏗️ ScaleForge *(WIP)*
+A work-in-progress project focused on scalable engineering workflows and automation.
+
+**Tech:** TBD
+
+</td>
+<td width="50%">
+
 ### ⚙️ Placement Notification Automation
 Self-hosted **n8n** automation platform that triggers on placement emails, uses an **LLM** to extract key details, validates via schema, and sends real-time alerts to Telegram while logging to Google Sheets.
 
 **Tech:** n8n · Docker · LLM APIs · JavaScript · Telegram API
 
 </td>
-<td width="50%">
-
-### 🚨 [Incident Response RL](https://github.com/Saransh2412/incident-response-rl)
-Reinforcement learning environment simulating real production incident response, built during a **hackathon**. Agent scored **perfect 1.0** across all tasks!
-
-**Tech:** Python · Reinforcement Learning · Docker · FastAPI
-
-</td>
 </tr>
 <tr>
-<td width="50%">
-
-### 🏗️ Kickstart Scaffolding Tool
-An AI tool that takes a high-level prompt, breaks it into ordered engineering tasks, and generates structured project templates. Uses **Pydantic** to enforce consistent outputs.
-
-**Tech:** Python · LangChain · LangGraph · Pydantic · OpenAI/Groq
-
-</td>
 <td width="50%">
 
 ### 📦 [Flipkart Clone](https://github.com/Saransh2412/flipkart_clone)
@@ -92,8 +84,24 @@ Full UI clone of the Flipkart e-commerce platform built rapidly in **just 2 days
 **Tech:** JavaScript · React · CSS
 
 </td>
+<td width="50%">
+
+### 🏗️ Kickstart Scaffolding Tool
+An AI tool that takes a high-level prompt, breaks it into ordered engineering tasks, and generates structured project templates. Uses **Pydantic** to enforce consistent outputs.
+
+**Tech:** Python · LangChain · LangGraph · Pydantic · OpenAI/Groq
+
+</td>
 </tr>
 <tr>
+<td width="50%">
+
+### 🚨 [RL](https://github.com/Saransh2412/incident-response-rl)
+Reinforcement learning environment simulating real production incident response, built during a **hackathon**. Agent scored **perfect 1.0** across all tasks!
+
+**Tech:** Python · Reinforcement Learning · Docker · FastAPI
+
+</td>
 <td width="50%">
 
 ### ⚖️ [LegalBot](https://github.com/Saransh2412/Legalbot)
@@ -102,6 +110,8 @@ AI-powered chatbot that answers basic legal questions using the **Google Gemini 
 **Tech:** React · Vite · Gemini API
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🕵️ [Deepfake Detection](https://github.com/Saransh2412/Deepfake_detection)
